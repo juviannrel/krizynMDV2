@@ -22,14 +22,14 @@ global.gopay = '082362285077'
 global.namebot = 'NorBotMD'
 global.gc = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ'
 global.web = 'https://chat.whatsapp.com/FvVp4ePuehu56rzaUOgNiZ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
+global.webm = 'https://saweria.co/juvian'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 6.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 16.000\nMAKSIMAL 1 GRUP \n》 Rp 25.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 999.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 36.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 35.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/ad5aedff61cffa7d25714.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/ad5aedff61cffa7d25714.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.zenzkey = '06d483bbc651' //ganti jadi apikey lu kalau expired
 global.wm = '↻NorBot𝙼𝙳'
 global.watermark = wm
 global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Juviann ×፝֟͜×'
@@ -44,7 +44,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@NorOfc✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
